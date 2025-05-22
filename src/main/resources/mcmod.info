@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${randomGTNHid}",
+		"name": "${randomGTNH}",
+		"description": "Yummy random addons into GTNH",
+		"version": "${1.0}",
+		"mcversion": "${1.7.10}",
+		"url": "https://github.com/MysticalBlade/random-gtnh",
+		"updateUrl": "",
+		"authorList": ["MysticalBlade"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
